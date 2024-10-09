@@ -18,7 +18,7 @@ Technologies Used
 - PyMySQL (for user registration and login)
 
 Download Dlib's Pretrained Model:
-Download the shape_predictor_68_face_landmarks.dat file from here.
+Download the shape_predictor_68_face_landmarks.dat file .
 Extract the .dat file and place it in the project directory.
 
 
