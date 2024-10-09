@@ -12,10 +12,15 @@ Features
 
 Technologies Used
 - Python
-- OpenCV
-- dlib
-- Tkinter
+- OpenCV (for image processing capabilities)
+- dlib (for facial landmark detection)
+- Tkinter (for creating the graphical user interface)
 - PyMySQL (for user registration and login)
+
+Download Dlib's Pretrained Model:
+Download the shape_predictor_68_face_landmarks.dat file from here.
+Extract the .dat file and place it in the project directory.
+
 
 Installation
 1. Clone the repository:
