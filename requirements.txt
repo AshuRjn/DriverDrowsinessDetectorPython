@@ -1,0 +1,12 @@
+
+cryptography==41.0.7
+dlib @ file:///C:/drwosiness/pro/pro/dlib-19.24.1-cp311-cp311-win_amd64.whl#sha256=6f1a5ee167975d7952b28e0ce4495f1d9a77644761cf5720fb66d7c6188ae496
+imutils==0.5.4
+numpy==1.26.2
+opencv-contrib-python==4.8.1.78
+opencv-python==4.8.1.78
+pipwin==0.5.2
+PyAudio==0.2.14
+PyMySQL==1.1.0
+pywhatkit==5.4
+
